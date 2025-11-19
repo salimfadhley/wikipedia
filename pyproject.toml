@@ -1,0 +1,10 @@
+[project]
+name = "scf_wikitools"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+scf-wikitools = "scf_wikitools.main:main"
